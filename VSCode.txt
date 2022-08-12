@@ -1,0 +1,5 @@
+8/12/22
+https://stackoverflow.com/questions/46539714/select-all-occurrences-of-selected-word-in-vscode
+Select All Occurrences of Find Match editor.action.selectHighlights.
+Ctrl+Shift+L
+Cmd+Shift+L or Cmd+Ctrl+G on Mac
